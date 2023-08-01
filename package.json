@@ -28,7 +28,7 @@
     "eslint": "^7.27.0",
     "https-localhost": "^4.6.5",
     "markdown-it-prism": "^2.1.6",
-    "pnpm": "^6.5.0",
+    "pnpm": "^7.33.4",
     "typescript": "^4.2.4",
     "vite": "^2.3.4",
     "vite-plugin-components": "^0.10.1",
